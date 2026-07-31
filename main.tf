@@ -1,3 +1,4 @@
+# vm
 resource "azurerm_linux_virtual_machine" "vm" {
 
   name                = var.vm_name
